@@ -83,5 +83,3 @@ Made with ❤️ using Python.
 **Vivek Chouhan**
 
 **INTERN ID-CITS5704**
-
-This README is suitable for a beginner GitHub project and clearly explains what the project does and how to use it.
